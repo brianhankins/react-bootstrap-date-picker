@@ -80,7 +80,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DaemonAlchemist/react-bootstrap-date-picker.git"
+    "url": "git+https://github.com/brianhankins/react-bootstrap-date-picker.git"
   },
   "author": "",
   "license": "MIT",
